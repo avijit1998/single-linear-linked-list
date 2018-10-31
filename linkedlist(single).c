@@ -18,6 +18,7 @@ void main()
     insert_end(7);print();//6 5 3 4 1 2 7
     delete_node(2);print();//6 3 4 1 2 7
     delete_node(3);print();//6 3 1 2 7
+    /*hey bro done something wrong here*/
     delete_beg();print();//3 1 2 7
     delete_end();print();//3 1 2
 }
